@@ -1,11 +1,11 @@
 # KAIST Lecture 
-> Class: Artificial Intelligence and Machine Learning for Financial Engineering 
+> __Class:__ Artificial Intelligence and Machine Learning for Financial Engineering 
 >
-> Code: FE540
+> __Code:__ FE540
 >
-> Professor: Ahyun Kim
+> __Professor:__ Ahyun Kim
 >
-> Semester: 19 Fall
+> __Semester:__ 19 Fall
 
 
 ## Homework 
