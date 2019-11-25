@@ -48,9 +48,7 @@ r_sqaure = 1 - sse/sst
 
 print("R Square: {:.4f}".format(r_sqaure))
 
-
-
-
+# Visualize
 fig, axs = plt.subplots(figsize=(18,6), nrows=1, ncols=len(alpha_list))
 coeff_df = pd.DataFrame()
 for pos, al in enumerate(alpha_list):
